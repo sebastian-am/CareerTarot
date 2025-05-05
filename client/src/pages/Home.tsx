@@ -69,8 +69,13 @@ export default function Home() {
   const shareCard = () => {
     if (!currentCard) return;
     
+    // Handle both camelCase and snake_case property names
+    const initialCode = currentCard.initialCode || currentCard.initial_code;
+    const quote = currentCard.quote;
+    const intervieweeName = currentCard.intervieweeName || currentCard.interviewee_name;
+    
     // Create share text with the quote and attribution
-    const shareText = `Career Insight: ${currentCard.initialCode}\n\n"${currentCard.quote}"\n\n- ${currentCard.intervieweeName}, from the What-To-Be podcast`;
+    const shareText = `Career Insight: ${initialCode}\n\n"${quote}"\n\n- ${intervieweeName}, from the What-To-Be podcast`;
     
     // Check if Web Share API is available
     if (navigator.share) {

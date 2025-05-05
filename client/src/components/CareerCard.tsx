@@ -10,7 +10,12 @@ interface CareerCardProps {
 }
 
 export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
-  const { initialCode, quote, intervieweeName, podcastLink, podcastTitle } = careerInsight;
+  // Handle both camelCase and snake_case property names
+  const initialCode = careerInsight.initialCode || careerInsight.initial_code;
+  const quote = careerInsight.quote;
+  const intervieweeName = careerInsight.intervieweeName || careerInsight.interviewee_name;
+  const podcastLink = careerInsight.podcastLink || careerInsight.podcast_link;
+  const podcastTitle = careerInsight.podcastTitle || careerInsight.podcast_title;
 
   return (
     <div 
