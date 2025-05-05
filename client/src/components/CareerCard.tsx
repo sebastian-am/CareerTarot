@@ -48,13 +48,9 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
                 {initialCode}
               </h2>
               
-              {/* Decorative Divider */}
+              {/* Decorative Divider - simplified to avoid blocking content */}
               <div className="flex items-center justify-center my-2">
-                <div className="h-px bg-golden-400 w-16"></div>
-                <div className="mx-2 text-golden-400">
-                  <StarIcon className="h-3 w-3" />
-                </div>
-                <div className="h-px bg-golden-400 w-16"></div>
+                <div className="h-px bg-golden-400 w-28"></div>
               </div>
               
               {/* Quote Content */}
