@@ -1,0 +1,82 @@
+import { useState, useEffect } from 'react';
+import { CareerInsight } from '@shared/schema';
+import { cn } from '@/lib/utils';
+import { Card } from '@/components/ui/card';
+import { StarIcon } from 'lucide-react';
+
+interface CareerCardProps {
+  careerInsight: CareerInsight;
+  isFlipped: boolean;
+}
+
+export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
+  const { initialCode, quote, intervieweeName, podcastLink, podcastTitle } = careerInsight;
+
+  return (
+    <div 
+      className={cn(
+        "relative w-full h-[500px] transition-transform duration-800 transform-style-preserve-3d",
+        isFlipped && "rotate-y-180"
+      )}
+    >
+      {/* Card Back */}
+      <div className="absolute w-full h-full backface-hidden">
+        <Card className="w-full h-full rounded-xl border-2 border-golden-400 shadow-[0_10px_25px_-5px_rgba(107,70,193,0.5),0_8px_10px_-6px_rgba(107,70,193,0.3)] overflow-hidden bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1572097662444-3bcfd7ae1004?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80')" }}>
+          <div className="absolute inset-0 bg-mystical-800 opacity-70"></div>
+          <div className="relative z-10 flex flex-col items-center justify-center h-full">
+            <div className="w-32 h-32 border-2 border-golden-300 rounded-full flex items-center justify-center">
+              <StarIcon className="h-12 w-12 text-golden-300 animate-[float_6s_ease-in-out_infinite]" />
+            </div>
+            <h2 className="font-playfair text-golden-300 text-2xl mt-4">Career Tarot</h2>
+          </div>
+        </Card>
+      </div>
+      
+      {/* Card Front */}
+      <div className="absolute w-full h-full backface-hidden rotate-y-180">
+        <Card className="w-full h-full bg-gradient-to-b from-mystical-700 to-mystical-900 rounded-xl border-2 border-golden-400 shadow-[0_10px_25px_-5px_rgba(107,70,193,0.5),0_8px_10px_-6px_rgba(107,70,193,0.3)] p-6 flex flex-col">
+          {/* Card Content */}
+          <div className="flex-grow overflow-y-auto">
+            <div className="flex flex-col h-full">
+              {/* Card Title/Initial Code */}
+              <h2 className="font-playfair text-2xl font-bold text-golden-300 mb-4 text-center">
+                {initialCode}
+              </h2>
+              
+              {/* Decorative Divider */}
+              <div className="flex items-center justify-center my-2">
+                <div className="h-px bg-golden-400 w-16"></div>
+                <div className="mx-2 text-golden-400">
+                  <StarIcon className="h-3 w-3" />
+                </div>
+                <div className="h-px bg-golden-400 w-16"></div>
+              </div>
+              
+              {/* Quote Content */}
+              <div className="my-4 flex-grow">
+                <p className="italic text-mystical-100 text-lg leading-relaxed">
+                  "{quote}"
+                </p>
+              </div>
+              
+              {/* Interviewee Info */}
+              <div className="mt-auto">
+                <div className="flex items-center justify-between text-sm text-mystical-300 italic mt-2">
+                  <span>{intervieweeName}</span>
+                  <a 
+                    href={podcastLink} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="text-golden-400 hover:underline"
+                  >
+                    <span className="mr-1">🎙️</span> Listen to episode
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </Card>
+      </div>
+    </div>
+  );
+}
