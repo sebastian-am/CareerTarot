@@ -16,6 +16,7 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
   const intervieweeName = careerInsight.intervieweeName || careerInsight.interviewee_name;
   const podcastLink = careerInsight.podcastLink || careerInsight.podcast_link;
   const podcastTitle = careerInsight.podcastTitle || careerInsight.podcast_title;
+  const career = careerInsight.career;
 
   return (
     <div 
@@ -28,12 +29,6 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
       <div className="absolute w-full h-full backface-hidden">
         <Card className="w-full h-full rounded-xl border-2 border-golden-400 shadow-[0_10px_25px_-5px_rgba(107,70,193,0.5),0_8px_10px_-6px_rgba(107,70,193,0.3)] overflow-hidden bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1572097662444-3bcfd7ae1004?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80')" }}>
           <div className="absolute inset-0 bg-mystical-800 opacity-70"></div>
-          <div className="relative z-10 flex flex-col items-center justify-center h-full">
-            <div className="w-32 h-32 border-2 border-golden-300 rounded-full flex items-center justify-center">
-              <StarIcon className="h-12 w-12 text-golden-300 animate-[float_6s_ease-in-out_infinite]" />
-            </div>
-            <h2 className="font-playfair text-golden-300 text-2xl mt-4">Career Tarot</h2>
-          </div>
         </Card>
       </div>
       
@@ -43,10 +38,15 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
           {/* Card Content */}
           <div className="flex-grow overflow-y-auto">
             <div className="flex flex-col h-full">
-              {/* Card Title/Initial Code */}
-              <h2 className="font-playfair text-2xl font-bold text-golden-300 mb-4 text-center">
-                {initialCode}
+              {/* Card Title/Career */}
+              <h2 className="font-playfair text-3xl font-bold text-golden-300 mb-2 text-center">
+                {career}
               </h2>
+              
+              {/* Card Code/Subtitle */}
+              <h3 className="font-playfair text-xl text-golden-200 mb-4 text-center">
+                {initialCode}
+              </h3>
               
               {/* Decorative Divider - simplified to avoid blocking content */}
               <div className="flex items-center justify-center my-2">
@@ -60,10 +60,19 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
                 </p>
               </div>
               
+              {/* Star Decoration */}
+              <div className="flex justify-center my-4">
+                <div className="w-16 h-16 border-2 border-golden-300 rounded-full flex items-center justify-center">
+                  <StarIcon className="h-8 w-8 text-golden-300 animate-[float_6s_ease-in-out_infinite]" />
+                </div>
+              </div>
+              
               {/* Interviewee Info */}
-              <div className="mt-auto">
-                <div className="flex items-center justify-between text-sm text-mystical-300 italic mt-2">
-                  <span>{intervieweeName}</span>
+              <div className="mt-auto pt-4">
+                <div className="flex flex-col gap-2 text-sm text-mystical-300 italic">
+                  <div className="flex items-center justify-between">
+                    <span>{intervieweeName}</span>
+                  </div>
                   <a 
                     href={podcastLink} 
                     target="_blank" 
