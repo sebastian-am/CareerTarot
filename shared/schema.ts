@@ -8,6 +8,7 @@ export const careerInsights = pgTable("career_insights", {
     podcast_title: text("podcast_title").notNull(),
   podcast_link: text("podcast_link").notNull(),
   interviewee_name: text("interviewee_name").notNull(),
+  career: text("career").notNull(),
   industry_sectors: text("industry_sectors").array().notNull(),
   transcript_excerpt_number: integer("transcript_excerpt_number").notNull(),
   transcript_excerpt_text: text("transcript_excerpt_text").notNull(),

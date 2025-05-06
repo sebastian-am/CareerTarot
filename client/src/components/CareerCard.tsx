@@ -3,6 +3,8 @@ import { CareerInsight } from '@shared/schema';
 import { cn } from '@/lib/utils';
 import { Card } from '@/components/ui/card';
 import { StarIcon } from 'lucide-react';
+// import { CareerPath } from './CareerPath';
+// Placeholder import for CareerPath (to be created)
 
 interface CareerCardProps {
   careerInsight: CareerInsight;

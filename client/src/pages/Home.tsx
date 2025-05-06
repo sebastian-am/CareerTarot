@@ -8,11 +8,13 @@ import { Button } from "@/components/ui/button";
 import { Share2, RefreshCw } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
 import { useToast } from "@/hooks/use-toast";
+import { CareerPath } from '@/components/CareerPath';
 
 export default function Home() {
   const [isDrawing, setIsDrawing] = useState(false);
   const [isFlipped, setIsFlipped] = useState(false);
   const [currentCard, setCurrentCard] = useState<CareerInsight | null>(null);
+  const [viewMode, setViewMode] = useState<'card' | 'path'>('card');
   const queryClient = useQueryClient();
   const { toast } = useToast();
 
@@ -61,6 +63,7 @@ export default function Home() {
 
   const resetCard = () => {
     setIsFlipped(false);
+    setViewMode('card');
     setTimeout(() => {
       setCurrentCard(null);
     }, 800);
@@ -129,68 +132,93 @@ export default function Home() {
         {/* Main Content */}
         <main className="flex-grow flex flex-col items-center justify-center relative">
           <div id="tarot-container" className="flex flex-col items-center justify-center w-full max-w-md">
-            {isLoading ? (
-              <div className="w-64 h-96 bg-mystical-800/50 rounded-xl border-2 border-golden-400/50 animate-pulse flex items-center justify-center">
-                <span className="text-mystical-200">Loading...</span>
-              </div>
-            ) : (
+            {viewMode === 'card' && (
               <>
-                {!currentCard ? (
-                  <div className="text-center mb-8 animate-fade-in">
-                    <p className="text-xl text-mystical-200 mb-6">Your next career insight awaits...</p>
-                    <CardDeck />
+                {isLoading ? (
+                  <div className="w-64 h-96 bg-mystical-800/50 rounded-xl border-2 border-golden-400/50 animate-pulse flex items-center justify-center">
+                    <span className="text-mystical-200">Loading...</span>
                   </div>
                 ) : (
-                  <div className="w-full perspective mb-8">
-                    <CareerCard
-                      careerInsight={currentCard}
-                      isFlipped={isFlipped}
-                    />
-                  </div>
+                  <>
+                    {!currentCard ? (
+                      <div className="text-center mb-8 animate-fade-in">
+                        <p className="text-xl text-mystical-200 mb-6">Your next career insight awaits...</p>
+                        <CardDeck />
+                      </div>
+                    ) : (
+                      <div className="w-full perspective mb-8">
+                        <CareerCard
+                          careerInsight={currentCard}
+                          isFlipped={isFlipped}
+                        />
+                      </div>
+                    )}
+                  </>
                 )}
+                {/* Card Drawing Actions */}
+                <div className="mt-8 flex flex-col items-center">
+                  {!currentCard ? (
+                    <Button
+                      onClick={drawCard}
+                      disabled={isDrawing || isLoading}
+                      variant="ghost"
+                      className={cn(
+                        "text-golden-300 hover:text-golden-400",
+                        "font-medium py-6 px-8 rounded-full",
+                        "transition-all duration-300 transform hover:scale-105 h-auto text-base"
+                      )}
+                    >
+                      <span className="mr-2 text-lg">✨</span>
+                      Draw a Card
+                    </Button>
+                  ) : (
+                    <div className="flex flex-col items-center">
+                      <div className="flex flex-row gap-4 items-center">
+                        <Button
+                          onClick={resetCard}
+                          variant="ghost"
+                          className="text-mystical-300 hover:text-golden-300 transition-colors"
+                        >
+                          <RefreshCw className="mr-2 h-4 w-4" />
+                          Draw Another Card
+                        </Button>
+                        <Button
+                          onClick={() => setViewMode('path')}
+                          variant="ghost"
+                          className="text-mystical-300 hover:text-golden-300 transition-colors"
+                        >
+                          Show Career Path
+                        </Button>
+                      </div>
+                      <div className="mt-6">
+                        <p className="text-sm text-mystical-300 mb-2">Share this wisdom:</p>
+                        <Button 
+                          onClick={shareCard}
+                          variant="outline" 
+                          className="border-mystical-300 text-mystical-300 hover:bg-mystical-700"
+                        >
+                          <Share2 className="mr-2 h-4 w-4" />
+                          Share
+                        </Button>
+                      </div>
+                    </div>
+                  )}
+                </div>
               </>
             )}
-            
-            {/* Card Drawing Actions */}
-            <div className="mt-8 flex flex-col items-center">
-              {!currentCard ? (
+            {/* Career Path Display (in place of card) */}
+            {viewMode === 'path' && currentCard && (
+              <div className="w-full flex flex-col items-center mt-8 animate-fade-in">
                 <Button
-                  onClick={drawCard}
-                  disabled={isDrawing || isLoading}
-                  className={cn(
-                    "bg-gradient-to-r from-golden-500 to-golden-600 hover:from-golden-600 hover:to-golden-700",
-                    "text-mystical-900 font-medium py-6 px-8 rounded-full shadow-lg",
-                    "transition-all duration-300 transform hover:scale-105 h-auto text-base"
-                  )}
+                  onClick={() => setViewMode('card')}
+                  className="mb-8 bg-golden-400 text-mystical-900 font-bold px-6 py-2 rounded-lg shadow hover:bg-golden-300 transition"
                 >
-                  <span className="mr-2 text-lg">✨</span>
-                  Draw a Card
+                  ← Back to Card
                 </Button>
-              ) : (
-                <div className="flex flex-col items-center">
-                  <Button
-                    onClick={resetCard}
-                    variant="ghost"
-                    className="text-mystical-300 hover:text-golden-300 transition-colors"
-                  >
-                    <RefreshCw className="mr-2 h-4 w-4" />
-                    Draw Another Card
-                  </Button>
-                  
-                  <div className="mt-6">
-                    <p className="text-sm text-mystical-300 mb-2">Share this wisdom:</p>
-                    <Button 
-                      onClick={shareCard}
-                      variant="outline" 
-                      className="border-mystical-300 text-mystical-300 hover:bg-mystical-700"
-                    >
-                      <Share2 className="mr-2 h-4 w-4" />
-                      Share
-                    </Button>
-                  </div>
-                </div>
-              )}
-            </div>
+                <h1 className="text-3xl font-playfair font-bold text-golden-300 mb-6 text-center">Career Path: {currentCard.career}</h1>
+                <CareerPath career={currentCard.career} />
+              </div>
+            )}
           </div>
         </main>
         
