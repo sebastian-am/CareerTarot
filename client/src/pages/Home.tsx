@@ -120,10 +120,15 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8 flex flex-col min-h-screen">
         {/* Header */}
         <header className="text-center py-6 md:py-10">
-          <h1 className="text-4xl md:text-5xl font-playfair font-bold mb-2 text-golden-300">Career Tarot</h1>
-          <p className="text-mystical-200 text-lg md:text-xl max-w-xl mx-auto">
-            Draw a card to receive career wisdom from industry professionals
-          </p>
+          <h1 className="text-4xl md:text-5xl font-playfair font-bold mb-1 text-golden-300">Via Fata</h1>
+          <div className="mb-2">
+            <span className="block italic text-golden-200 text-lg md:text-xl" style={{ fontSize: '1.1rem' }}>The Path of Fate</span>
+          </div>
+          <div className="mt-8 mb-4">
+            <p className="text-mystical-200 text-lg md:text-xl max-w-xl mx-auto">
+              Draw a card to receive career wisdom from industry professionals
+            </p>
+          </div>
           <div className="text-sm text-mystical-300 mt-2">
             <span>By <a href="#" className="underline hover:text-golden-300 transition-colors">Your Future Is Our Business</a></span>
           </div>

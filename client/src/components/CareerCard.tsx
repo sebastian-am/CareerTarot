@@ -3,6 +3,7 @@ import { CareerInsight } from '@shared/schema';
 import { cn } from '@/lib/utils';
 import { Card } from '@/components/ui/card';
 import { StarIcon } from 'lucide-react';
+import { getArcanaName } from '@shared/arcana';
 // import { CareerPath } from './CareerPath';
 // Placeholder import for CareerPath (to be created)
 
@@ -13,12 +14,12 @@ interface CareerCardProps {
 
 export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
   // Handle both camelCase and snake_case property names
-  const initialCode = careerInsight.initialCode || careerInsight.initial_code;
   const quote = careerInsight.quote;
   const intervieweeName = careerInsight.intervieweeName || careerInsight.interviewee_name;
   const podcastLink = careerInsight.podcastLink || careerInsight.podcast_link;
   const podcastTitle = careerInsight.podcastTitle || careerInsight.podcast_title;
   const career = careerInsight.career;
+  const arcanaName = getArcanaName(careerInsight);
 
   return (
     <div 
@@ -45,9 +46,9 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
                 {career}
               </h2>
               
-              {/* Card Code/Subtitle */}
+              {/* Card Arcana Name */}
               <h3 className="font-playfair text-xl text-golden-200 mb-4 text-center">
-                {initialCode}
+                {arcanaName}
               </h3>
               
               {/* Decorative Divider - simplified to avoid blocking content */}

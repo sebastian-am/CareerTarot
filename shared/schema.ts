@@ -109,7 +109,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 3,
-    "transcript_excerpt_text": "Interviewer 2:14  And schools are now trying, they're now implementing it in the classroom?    Sukh Singh 2:17  Yeah, so this year we have, I believe it's six different schools in Santa Cruz County, from Pajaro all the way up to Scotts Valley, where teachers are independently teaching with our software. Where it's teachers that have never taught computer science before. Teachers that come from a social science or English background. And so originally when we started, we thought that our app and our curriculum would fit really well into a math classroom because a lot of the concepts that students are applying fit directly along with common core math for third to eighth grade. But what we found when we started approaching math teachers is that often they were too busy. They had a lot on their plates already and they couldn't really make time for coding. But there were a lot of social science teachers that were really interested in this idea of empathy, this idea of growth mindset, this idea of being like an empathetic learner, and so they took on the challenge of learning to code themselves and they kind of learned to code with their students. And we've actually found that to be kind of the best way forward because then students see their teachers fail, the teachers developing a portfolio along with their students, everyone's at the table. Students are getting to teach their teachers, everyone's kind of getting to go at their own pace and that's okay.   And so we've really seen that trend kind of developing as of last year in 2018. And since we've decided that we should really be serving that group and that population, because they are so motivated, and they are so excited. Third to eighth grade, specifically Social Science, English, and history teachers. So teachers that have never programmed before. And that's mainly just so students can see their teachers fail. And so it can pull in those students that have a lot of reservations about math, programming, or engineering. When they see a history or an English or a social science teacher, they can see themselves in that teacher, they can see themselves being like, \u201cYou know, I wasn't sure about this, but they weren't really sure about this either\u201d. And I think that gives a lot of those kids buy-in where they might not have had it if it was like, let's say, a math teacher teaching it. Where they might even register for the class because \u201cI hate this algebra class.\u201d",
+    "transcript_excerpt_text": "Interviewer 2:14  And schools are now trying, they're now implementing it in the classroom?    Sukh Singh 2:17  Yeah, so this year we have, I believe it's six different schools in Santa Cruz County, from Pajaro all the way up to Scotts Valley, where teachers are independently teaching with our software. Where it's teachers that have never taught computer science before. Teachers that come from a social science or English background. And so originally when we started, we thought that our app and our curriculum would fit really well into a math classroom because a lot of the concepts that students are applying fit directly along with common core math for third to eighth grade. But what we found when we started approaching math teachers is that often they were too busy. They had a lot on their plates already and they couldn't really make time for coding. But there were a lot of social science teachers that were really interested in this idea of empathy, this idea of growth mindset, this idea of being like an empathetic learner, and so they took on the challenge of learning to code themselves and they kind of learned to code with their students. And we've actually found that to be kind of the best way forward because then students see their teachers fail, the teachers developing a portfolio along with their students, everyone's at the table. Students are getting to teach their teachers, everyone's kind of getting to go at their own pace and that's okay.   And so we've really seen that trend kind of developing as of last year in 2018. And since we've decided that we should really be serving that group and that population, because they are so motivated, and they are so excited. Third to eighth grade, specifically Social Science, English, and history teachers. So teachers that have never programmed before. And that's mainly just so students can see their teachers fail. And so it can pull in those students that have a lot of reservations about math, programming, or engineering. When they see a history or an English or a social science teacher, they can see themselves in that teacher, they can see themselves being like, \u201cYou know, I wasn't sure about this, but they weren't really sure about this either\u201d. And I think that gives a lot of those kids buy-in where they might not have had it if it was like, let's say, a math teacher teaching it. Where they might even register for the class because \u201cI hate this algebra class.",
     "quote": "But there were a lot of social science teachers that were really interested in this idea of empathy, this idea of growth mindset, this idea of being like an empathetic learner, and so they took on the challenge of learning to code themselves and they kind of learned to code with their students.",
     "initial_code": "Know your audience"
   },
@@ -125,7 +125,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 4,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
     "quote": "We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it.",
     "initial_code": "Work along side your customer"
   },
@@ -141,8 +141,8 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 4,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
-    "quote": "And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
+    "quote": "And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
     "initial_code": "Listen and adapt"
   },
   {
@@ -157,8 +157,8 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 5,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
-    "quote": "\u201cAnd so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
+    "quote": "And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want.",
     "initial_code": "Practical experience through projects"
   },
   {
@@ -173,8 +173,8 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 5,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
-    "quote": "\u201cThey\u2019re so blunt. Like, they'll just tell you, \u2018this sucks. This doesn't make any sense.\u2019 And you're like, \u2018Okay, cool.\u2019 Like, it's perfect feedback. And so you can go back and actually change it.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
+    "quote": "They\u2019re so blunt. Like, they'll just tell you, \u2018this sucks. This doesn't make any sense.\u2019 And you're like, \u2018Okay, cool.\u2019 Like, it's perfect feedback. And so you can go back and actually change it.",
     "initial_code": "Learning from Feedback and Iterative Improvement"
   },
   {
@@ -189,7 +189,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 5,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
     "quote": "we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach.",
     "initial_code": "Reflecting and adapting"
   },
@@ -205,8 +205,8 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 5,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
-    "quote": "\u201cWe originally started developing\u2026 a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks\u2026 So we [rebuilt] the application kind of around the Chromebooks.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
+    "quote": "We originally started developing\u2026 a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks\u2026 So we [rebuilt] the application kind of around the Chromebooks.",
     "initial_code": "Adapting to real world contraints"
   },
   {
@@ -221,8 +221,8 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 5,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
-    "quote": "\u201cAll of that was stuff that we didn\u2019t realize that we were gonna have to do until we saw teachers struggling\u2026 thanks to them being super honest.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
+    "quote": "All of that was stuff that we didn\u2019t realize that we were gonna have to do until we saw teachers struggling\u2026 thanks to them being super honest.",
     "initial_code": "Reflecting and adapting"
   },
   {
@@ -237,7 +237,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
       "Family Services"
     ],
     "transcript_excerpt_number": 5,
-    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.\u201d",
+    "transcript_excerpt_text": "Interviewer 4:22  So, you provide coding software and curriculum to teachers and schools, right? And they teach it to their students.    Sukh Singh 4:28 Exactly.    # HOW IT WORKS Interviewer 4:29  Okay. And then what kind of coding and software to your brain\u2013 like, how complex is it?    Sukh Singh 4:34  So we provide students a web application, that essentially means that it's used through a browser. When we originally started developing, we had made a Windows-specific application. But then when we started working with schools, we realized that everyone has Chromebooks. Like everyone has a one-to-one on Chromebooks pretty much. And so we read about the application kind of around the Chromebooks and around tools that schools and teachers already had. And so each student has their own portfolio where they can kind of build their own projects. And so each student can program in JavaScript, they can learn at their own pace, they can make as many projects as they want. There's a beginner and an advanced version where they can kind of like get their bearings, and then move into advanced and start making little applications, games, animations, comics. Like they make really cool stuff in advance.    And so that's the main software that we give the students. And then we have a whole series of lessons broken up over five levels that we give to teachers to distribute to students how they want. And so teachers, essentially, print out worksheets or print out project breakdowns as they need to. And so we originally started, we never assumed that we would be the people that would create that kind of material. We originally thought that we would kind of just create, like a platform where students could be creative and make stuff. But as we started working with kids, we realized if we created that material hand in hand with them, it could make sense specifically for them. And so it's been great to be able to build worksheets and build project outlines, and then actually just hand it to a student and see how they react to it and how they like\u2013 they're so blunt. Like, they'll just tell you, \u201cthis sucks. This does make any sense\u201d. And you're like, \u201cOkay, cool.\u201d Like, it's perfect feedback. And so you can go back and actually change it. And teachers really seem to benefit from that. A lot of our teachers, you know, make it a point to tell us that they can see that this has been tested before, that they can see that this already works for their students because when their kids get it, they can start using it instantly.    And so that curriculum is provided currently digitally. But for the 2019-2020 school year, we're actually publishing a workbook. So that's our big project. A few of our schools are already using the workbook and like a prototype, and they've given us really good feedback. But the idea is to make the class as similar to teaching social studies history or any class as possible. I think a lot of education technology, and a lot of these big startups, try to reinvent how people do things. And we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them. And so originally, in our first year and a half, we tried to do that, we tried to rebuild the wheel, and some teachers bought in, and some teachers were willing to do it, but we realize how much strain we were putting on them, and how difficult that is when you have like five or six classes to teach. And so we've kind of switched our perspective. And really, now the curriculum is supposed to be as similar to teaching any other class where it's broken down:  You have your standard alignment, you have something that you can do each day, the reflections that students can do, there's a rubric to grade, students can be working at different levels, but be graded in like some kind of equitable manner, students can actually do presentations, just like they would do in history, where they would put together a Google slide, where they're explaining, like all of the context behind where they got their project idea why they pursued it, what concepts they use. And so, all of that was stuff that we didn't realize that we were gonna have to do until we saw teachers struggling in the classroom. And then it was just thanks to them being super honest. They're like, \u201cAll this is really hard for me because of reason a, y, and z.",
     "quote": "we forget how great teachers already are at teaching. They\u2019re already the experts at that specifically. And so if we can build computer science curriculum in a way that they're used to getting curriculum, and in a way where they're used to structuring a class, that way, it removes that burden from them",
     "initial_code": "Adapting to real world contraints"
   },
@@ -254,7 +254,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 6,
     "transcript_excerpt_text": "Interviewer 8:06 So you kind of have to incorporate their opinions and their suggestions. You want to work with them, not like stress them out more, or have them put more on their plate. You wanted to kind of integrate it fluidly in the classroom.    Sukh Singh 8:17  Exactly. I mean, I think when you talk about innovation, it's always about how something can be so new and so different. But if you think about like all of our, like, favorite innovations, it's like they fit into our life in a way where it's like, seamless. Like, a touchscreen phone is so easy to use. An iPad is so simple, and you pick it up. It's like a lot of the other things that you already do. And so like that's the tweak that we want to provide for teachers. We are super confident that any teacher can teach the class how to program because they can learn it along with them. And a lot of it is about failure. A lot of it is about making mistakes and like I've yet to meet a teacher that's not creative. And so any of them can really build fantastic portfolios. I wish your viewers could actually see the portfolios these teachers make because the projects were pretty hilarious.",
-    "quote": "\u201cWe are super confident that any teacher can teach the class how to program because they can learn it along with them. And a lot of it is about failure. A lot of it is about making mistakes... I\u2019ve yet to meet a teacher that\u2019s not creative. And so any of them can really build fantastic portfolios.\u201d",
+    "quote": "We are super confident that any teacher can teach the class how to program because they can learn it along with them. And a lot of it is about failure. A lot of it is about making mistakes... I\u2019ve yet to meet a teacher that\u2019s not creative. And so any of them can really build fantastic portfolios.",
     "initial_code": "Learning on the job"
   },
   {
@@ -270,7 +270,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 7,
     "transcript_excerpt_text": "Interviewer  9:10   So for those who are just tuning in, you're listening to \u201cWhat to Be\u201d on KSQD 90.7 FM Santa Cruz. I'm Melina and I'm joined by our other host, Nick. We're speaking with Sukh Singh, who is the CEO of Code Naturally, and he was just telling us about the Code Naturally program curriculum and how mostly third to eighth-grader students and social science English teachers enjoy that more than the math teachers. Right. And also you're about to get into the challenges and the failures, right? Can you tell us more about that? How did you come up with this concept? And what kind of was the drive behind?   Sukh Singh 9:49  Yeah, sure. So, the drive behind it was I never actually got to see computer science or programming when I was in high school or middle school. I was always really into computers. I was really into hardware stuff. I was the person that would go and fix my friend's computer to the broken, mainly with anti-viruses, right? It's the simplest thing. Yeah. But I never knew that there was a such thing as programming. It just I never connected the dots. And when I got to college, and I took my first class, I failed miserably. And it was the first time that like, failed the class so handedly. It was just the first,  like CS 12A . I mean, there was one easier class that I could have taken that probably should have. My overconfidence really shot me in the foot. But I failed that class and a lot of it was just because I hadn't seen it before. And the way that I approached it, I kept thinking about solving a problem. And I didn't think of it as communicating, which is a lot more like what you're doing when you're programming. You're communicating your intentions through a really a formulated language, right? Like, if you were if you had a friend who was drawing on the board for you, you could just be like, hey, draw a red square on the board, and they would probably get somewhere close to what you wanted, like computers really stupid. So you have to get really specific and be like, \u201cI need you to draw\u2026 at this specific point\u201d. Yeah. And that's something that I didn't understand when I took that class.    And so afterwards, I thought that if students could have that experience at a younger age, that things would be different for them. I all I really wanted them to understand was that programming is communicating and not problem-solving. You don't have to think about it as math, There really is a separation. I think students like tell me \u201cI hate math, math is stupid\u201d. They don't hate math, they hate calculating, which is fair, like no one likes calculating right?",
-    "quote": "\u201cWhen I got to college, and I took my first class, I failed miserably. And it was the first time that I failed the class so handedly... My overconfidence really shot me in the foot. But I failed that class and a lot of it was just because I hadn't seen it before. And the way that I approached it, I kept thinking about solving a problem.",
+    "quote": "When I got to college, and I took my first class, I failed miserably. And it was the first time that I failed the class so handedly... My overconfidence really shot me in the foot. But I failed that class and a lot of it was just because I hadn't seen it before. And the way that I approached it, I kept thinking about solving a problem.",
     "initial_code": "Learning from Failure"
   },
   {
@@ -286,7 +286,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 7,
     "transcript_excerpt_text": "Interviewer  9:10   So for those who are just tuning in, you're listening to \u201cWhat to Be\u201d on KSQD 90.7 FM Santa Cruz. I'm Melina and I'm joined by our other host, Nick. We're speaking with Sukh Singh, who is the CEO of Code Naturally, and he was just telling us about the Code Naturally program curriculum and how mostly third to eighth-grader students and social science English teachers enjoy that more than the math teachers. Right. And also you're about to get into the challenges and the failures, right? Can you tell us more about that? How did you come up with this concept? And what kind of was the drive behind?   Sukh Singh 9:49  Yeah, sure. So, the drive behind it was I never actually got to see computer science or programming when I was in high school or middle school. I was always really into computers. I was really into hardware stuff. I was the person that would go and fix my friend's computer to the broken, mainly with anti-viruses, right? It's the simplest thing. Yeah. But I never knew that there was a such thing as programming. It just I never connected the dots. And when I got to college, and I took my first class, I failed miserably. And it was the first time that like, failed the class so handedly. It was just the first,  like CS 12A . I mean, there was one easier class that I could have taken that probably should have. My overconfidence really shot me in the foot. But I failed that class and a lot of it was just because I hadn't seen it before. And the way that I approached it, I kept thinking about solving a problem. And I didn't think of it as communicating, which is a lot more like what you're doing when you're programming. You're communicating your intentions through a really a formulated language, right? Like, if you were if you had a friend who was drawing on the board for you, you could just be like, hey, draw a red square on the board, and they would probably get somewhere close to what you wanted, like computers really stupid. So you have to get really specific and be like, \u201cI need you to draw\u2026 at this specific point\u201d. Yeah. And that's something that I didn't understand when I took that class.    And so afterwards, I thought that if students could have that experience at a younger age, that things would be different for them. I all I really wanted them to understand was that programming is communicating and not problem-solving. You don't have to think about it as math, There really is a separation. I think students like tell me \u201cI hate math, math is stupid\u201d. They don't hate math, they hate calculating, which is fair, like no one likes calculating right?",
-    "quote": "\u201cThe way that I approached it, I kept thinking about solving a problem. And I didn't think of it as communicating\u2026 you're communicating your intentions through a really formulated language.\u201d",
+    "quote": "The way that I approached it, I kept thinking about solving a problem. And I didn't think of it as communicating\u2026 you're communicating your intentions through a really formulated language.",
     "initial_code": "Importance of communication"
   },
   {
@@ -302,7 +302,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 7,
     "transcript_excerpt_text": "Interviewer  9:10   So for those who are just tuning in, you're listening to \u201cWhat to Be\u201d on KSQD 90.7 FM Santa Cruz. I'm Melina and I'm joined by our other host, Nick. We're speaking with Sukh Singh, who is the CEO of Code Naturally, and he was just telling us about the Code Naturally program curriculum and how mostly third to eighth-grader students and social science English teachers enjoy that more than the math teachers. Right. And also you're about to get into the challenges and the failures, right? Can you tell us more about that? How did you come up with this concept? And what kind of was the drive behind?   Sukh Singh 9:49  Yeah, sure. So, the drive behind it was I never actually got to see computer science or programming when I was in high school or middle school. I was always really into computers. I was really into hardware stuff. I was the person that would go and fix my friend's computer to the broken, mainly with anti-viruses, right? It's the simplest thing. Yeah. But I never knew that there was a such thing as programming. It just I never connected the dots. And when I got to college, and I took my first class, I failed miserably. And it was the first time that like, failed the class so handedly. It was just the first,  like CS 12A . I mean, there was one easier class that I could have taken that probably should have. My overconfidence really shot me in the foot. But I failed that class and a lot of it was just because I hadn't seen it before. And the way that I approached it, I kept thinking about solving a problem. And I didn't think of it as communicating, which is a lot more like what you're doing when you're programming. You're communicating your intentions through a really a formulated language, right? Like, if you were if you had a friend who was drawing on the board for you, you could just be like, hey, draw a red square on the board, and they would probably get somewhere close to what you wanted, like computers really stupid. So you have to get really specific and be like, \u201cI need you to draw\u2026 at this specific point\u201d. Yeah. And that's something that I didn't understand when I took that class.    And so afterwards, I thought that if students could have that experience at a younger age, that things would be different for them. I all I really wanted them to understand was that programming is communicating and not problem-solving. You don't have to think about it as math, There really is a separation. I think students like tell me \u201cI hate math, math is stupid\u201d. They don't hate math, they hate calculating, which is fair, like no one likes calculating right?",
-    "quote": "\u201cIf students could have that experience at a younger age, that things would be different for them\u2026 I really wanted them to understand that programming is communicating and not problem-solving. You don't have to think about it as math.\u201d",
+    "quote": "If students could have that experience at a younger age, that things would be different for them\u2026 I really wanted them to understand that programming is communicating and not problem-solving. You don't have to think about it as math.",
     "initial_code": "Changing persepectives"
   },
   {
@@ -2090,7 +2090,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2107,7 +2107,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2124,7 +2124,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2141,7 +2141,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2158,7 +2158,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2175,7 +2175,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2192,7 +2192,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2209,7 +2209,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2226,7 +2226,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2243,7 +2243,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2260,7 +2260,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2277,7 +2277,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2294,7 +2294,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2311,7 +2311,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2328,7 +2328,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2345,7 +2345,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 39,
     "podcast_title": "HR Director & Barista at Cat and Cloud Coffee",
-    "podcast_link": "https://soundcloud.com/what-to-be/kayla-baumgardner-firefighter-paramedic",
+    "podcast_link": "https://soundcloud.com/what-to-be/rachel-rassmussen-interview-12819-1021-am?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     "interviewee_name": "Rachel Rasmussen",
     "career": "Barista",
     "industry_sectors": [
@@ -2362,7 +2362,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2378,7 +2378,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2394,7 +2394,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2410,7 +2410,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2426,7 +2426,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2442,7 +2442,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2458,7 +2458,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2474,7 +2474,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2484,13 +2484,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 4,
     "transcript_excerpt_text": "Interviewer 5:42",
-    "quote": "\u201cI have a great mentor. And he said, I know you're not crazy about being a manager, but our field needs people like you, so please think about it.\u201d",
+    "quote": "I have a great mentor. And he said, I know you're not crazy about being a manager, but our field needs people like you, so please think about it.",
     "initial_code": "Trust your mentors"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2500,13 +2500,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 4,
     "transcript_excerpt_text": "Interviewer 7:35",
-    "quote": "\u201cWhat kept me going was my passion for this work, and I thought I'm going to work on that, that thing I don't like, and I'm going to try to get better at it and be true to my heart and make sure that I was doing what I wanted to do and to help. So I've really fallen in love with occupation of working with this population of adult learners, and I thought, if I can affect positive change, and if it means becoming a manager, I'm going to do it.\u201d",
+    "quote": "What kept me going was my passion for this work, and I thought I'm going to work on that, that thing I don't like, and I'm going to try to get better at it and be true to my heart and make sure that I was doing what I wanted to do and to help. So I've really fallen in love with occupation of working with this population of adult learners, and I thought, if I can affect positive change, and if it means becoming a manager, I'm going to do it.",
     "initial_code": "Follow your passion"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2516,13 +2516,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 4,
     "transcript_excerpt_text": "Interviewer 8:09",
-    "quote": "\u201cIn 1995 I took a trip. I'd saved a bunch of money, and I wanted to learn Spanish by immersion, so I took a trip to Central and South America for eight months, and while I was living in Ecuador I met some Americans, and they recruited me to teach English to Ecuadorian professionals, and it was such a great time.\u201d",
+    "quote": "In 1995 I took a trip. I'd saved a bunch of money, and I wanted to learn Spanish by immersion, so I took a trip to Central and South America for eight months, and while I was living in Ecuador I met some Americans, and they recruited me to teach English to Ecuadorian professionals, and it was such a great time.",
     "initial_code": "Explore new paths"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2532,13 +2532,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 4,
     "transcript_excerpt_text": "Interviewer 9:16",
-    "quote": "\u201cAdult learners are coming to us. They're not being told, and they have this thirst to learn. So they're very motivated. There's very little discipline. And so that's what I fell in love with, teaching English as a second language and working with immigrants to help give them a better grounding.\u201d",
+    "quote": "Adult learners are coming to us. They're not being told, and they have this thirst to learn. So they're very motivated. There's very little discipline. And so that's what I fell in love with, teaching English as a second language and working with immigrants to help give them a better grounding.",
     "initial_code": "Teach motivated learners"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2548,13 +2548,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cwhether you're teaching or supporting teachers.\u201d",
+    "quote": "whether you're teaching or supporting teachers.",
     "initial_code": "Explore Roles"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2564,13 +2564,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cWe're always engaging with new teachers and new ideas.\u201d",
+    "quote": "We're always engaging with new teachers and new ideas.",
     "initial_code": "Continuous Learning"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2580,13 +2580,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cIt's important that we stay on top of communication.\u201d",
+    "quote": "It's important that we stay on top of communication.",
     "initial_code": "Communication Importance"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2596,13 +2596,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cI'll invite any of you to connect with me. Beyond here, I can give you my contact information.\u201d",
+    "quote": "I'll invite any of you to connect with me. Beyond here, I can give you my contact information.",
     "initial_code": "Networking"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2612,13 +2612,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cIt's important to me to stay connected with students to make sure we're meeting their need.\u201d",
+    "quote": "It's important to me to stay connected with students to make sure we're meeting their need.",
     "initial_code": "Meaningful Work"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2628,13 +2628,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cWe're talking to people who have ideas for a new class. Hey, how about a 3d printing class?\u201d",
+    "quote": "We're talking to people who have ideas for a new class. Hey, how about a 3d printing class?",
     "initial_code": "Experimen"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2644,13 +2644,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cI like to walk around and connect with students.\u201d",
+    "quote": "I like to walk around and connect with students.",
     "initial_code": "Listen to your reactions"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2660,13 +2660,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cWe're always planning.\u201d",
+    "quote": "We're always planning.",
     "initial_code": "Pivot"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2676,13 +2676,13 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer  15:45   All right, we have our first ask out loud question here, Julian, you can go ahead. You are unmuted. Feel free to ask your question now,   what is the most challenging part of your job?   Burr Guthrie  15:54   A great question. I talked to Jacob earlier. So when you become an administrator in a school or college, part of an administrator is you have to manage people, and you recruit teachers and recruit clerks. It's personally for me, it's hard to it's a skill I'm still working on. But imagine when you a good friend, giving critical feedback to people can be hard. Imagine telling your friends something that they don't want to hear. It's really an art of having a conversation with somebody, and you need to give them critical information, which is really just another word for I need, I need you to improve in some area. So it's a real skill to be critical of somebody without hurting their feelings. So there's a way to be critical where you're lifting somebody up. And so a skill I work on when you're working with a teacher who needs improvement, there's a way to talk to them where they will surface the problem so that I don't have to. For example, you you might say, Well, I was in your classroom, and I observed that maybe not all of the students were really engaged. And during that time, you were delivering a lesson on the past tense, and you can talk to somebody where they may say, you know, I forgot to do this or that, and so they're doing the work for you, and you're you're helping them to identify an area of improvement so that I don't have to say that, and to be really supportive and nurturing, it's a hard thing to be a boss, to have to reprimand somebody. It's really hard for me, other people, it may come naturally. I hope that answered your question.",
-    "quote": "\u201cTo spend time connected with the students and the teachers, to make sure you're so make sure you're meeting student need. Listening to students.\u201d",
+    "quote": "To spend time connected with the students and the teachers, to make sure you're so make sure you're meeting student need. Listening to students.",
     "initial_code": "Making a Difference"
   },
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2698,7 +2698,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2714,7 +2714,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2730,7 +2730,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2746,7 +2746,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2762,7 +2762,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2778,7 +2778,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
   {
     "podcast_number": 77,
     "podcast_title": "Burr Guthrie Coordinator of Adult Education at PVUSD.",
-    "podcast_link": "https://drive.google.com/file/d/14OCkkmEgqZgztxJfDr9MguyFdfYx8A2I/view",
+    "podcast_link": "https://soundcloud.com/what-to-be/burr-guthrie",
     "interviewee_name": "Burr Guthrie",
     "career": "Adult Education Administrator",
     "industry_sectors": [
@@ -2984,7 +2984,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Jacob Checkman: For those who are just tuning in, you're listening to what to be at KSQD 90. 7 FM in Santa Cruz. I'm Jacob Sheckman and today we're speaking with Jessica Ridgway and learning about her career journey to becoming the executive director of Farm Discovery. Now, Your break from education in between your undergraduate and graduate studies.  Can you talk to me more about what you learned during that time, because you said you in your undergrad you studied anthropology and then you went into the sciences and That's really difficult. So what did you learn during that academic break?",
-    "quote": "\u201cWhat I learned afterwards was that with enough hard work, you can still shift your path... You're not necessarily pigeonholed into the social sciences if you want to go into the hard sciences... you can access that.",
+    "quote": "What I learned afterwards was that with enough hard work, you can still shift your path... You're not necessarily pigeonholed into the social sciences if you want to go into the hard sciences... you can access that.",
     "initial_code": "Breakthrough and Growth in Personal Education"
   },
   {
@@ -2998,7 +2998,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 11,
     "transcript_excerpt_text": "Jacob Checkman: Yeah. It sounds like you've got to be able to learn on the fly. Like what you've been doing. Is there anything that a mentor has maybe said to you, any bit of philosophy that you've found yourself sticking with as you really went into your career?",
-    "quote": "\u201cThere\u2019s so many balls in the air at all times\u2026 Yoga and mindfulness have been really helpful with that\u2026 It gives you the skills to breathe and acknowledge them and let them go for a minute.\u201d",
+    "quote": "There\u2019s so many balls in the air at all times\u2026 Yoga and mindfulness have been really helpful with that\u2026 It gives you the skills to breathe and acknowledge them and let them go for a minute.",
     "initial_code": "Creating Personal Balance"
   },
   {
@@ -3254,7 +3254,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 10,
     "transcript_excerpt_text": "Interviewer: How do you come up with ideas for projects? Susan: We often pitch things that sound impossible. Like our Coast Guard reality show \u2014 we pitched it and they said yes!",
-    "quote": "\u201cWe often pitch things that sound impossible.\u201d",
+    "quote": "We often pitch things that sound impossible.",
     "initial_code": "Bold Idea Generation"
   },
   {
@@ -3270,7 +3270,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 12,
     "transcript_excerpt_text": "Interviewer: What advice would you give to someone interested in your field? Susan: Take risks. If you wait until you\u2019re fully ready, you\u2019ll miss the opportunity. Just go for it.",
-    "quote": "\u201cIf you wait until you\u2019re fully ready, you\u2019ll miss the opportunity.\u201d",
+    "quote": "If you wait until you\u2019re fully ready, you\u2019ll miss the opportunity.",
     "initial_code": "Embracing Uncertainty"
   },
   {
@@ -3286,7 +3286,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 14,
     "transcript_excerpt_text": "Interviewer: What skills are most important in this line of work? Susan: Listening. You really need to hear what your client wants \u2014 it\u2019s not just about your own vision.",
-    "quote": "You really need to hear what your client wants.\u201d",
+    "quote": "You really need to hear what your client wants.",
     "initial_code": "Client-Centered Communication"
   },
   {
@@ -3302,7 +3302,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer #1  3:21   amazing. Yeah. Right. And you were talking about a film that plays down at the exploration center. Do you mind telling us about that? Yeah,   Lisa Uttal  3:29   we have. We have the one breath, a Monterey Bay experience that plays in our theater. And Bob Talbot, who's world renowned filmmaker was the creative artists behind this film. And what we did was we took stories from Monterey Bay, and really talked about and the positive stories, the stories of at one time where our fisheries were threatened. Our marine mammals like whales, or an elephant seals, numbers were low. And we talked about that time in our history, and then talked about the revival and how in the recent years, we've seen a huge, huge revival of these organisms in Monterey Bay, and we've seen a more sustainable fishing happening.",
-    "quote": "\u201c...talked about that time in our history, and then talked about the revival and how in the recent years, we've seen a huge, huge revival of these organisms\u2026\u201d",
+    "quote": "...talked about that time in our history, and then talked about the revival and how in the recent years, we've seen a huge, huge revival of these organisms\u2026",
     "initial_code": "Environmental conservation"
   },
   {
@@ -3958,7 +3958,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 13,
     "transcript_excerpt_text": "Interviewer  11:52   Yeah. And it seems like it's working so far, and that you guys are doing the best that you can to make it stay that way. So good job. And I would imagine that your duties and responsibilities have changed, maybe somewhat and, and I know some of this, we were talking about before the interview that you're making some like construction videos that will just serve as like foundation material for your class going forward, which I think is great.   Andrea Mollenauer  12:14   Yeah all my classes actually and teaching in the high school setting as well. And the high school culinary program that I teach is all online, none of it has come back to in person education. And so a lot of the slide decks and the instructional videos and all of the photo documents that I'm putting together for the students I feel like are going to be really great resources that I can use in the future, even if we do come back in person, and they can refer to them at home and they're practicing their knife skills at home or, you know, I can use them to send out as pre learning materials. So they can be like a little bit up on the material before coming into class and practicing the techniques. So I'm just loving putting together all of the new educational material. It's a lot of work. Like I'm not gonna lie, I think you said it earlier. It's a stress on teachers as well, that is unprecedented. But I'm actually really loving the results. Like the results are that I'm coming up with tons of other ways of teaching what I've been teaching for many, many years, and I'm coming up with a ton of foundational material in a ways that I never would have had time or made the time to do before. And so I think that when all this is said and done, it sounds crazy, but it's going to make me a better teacher. And so there is a small nugget of positivity here.",
-    "quote": "\u201cI'm just loving putting together all of the new educational material... I'm coming up with tons of other ways of teaching what I've been teaching for many, many years, and I'm coming up with a ton of foundational material in a ways that I never would have had time or made the time to do before.\u201d,",
+    "quote": "I'm just loving putting together all of the new educational material... I'm coming up with tons of other ways of teaching what I've been teaching for many, many years, and I'm coming up with a ton of foundational material in a ways that I never would have had time or made the time to do before.\u201d,",
     "initial_code": "Lifelong Learning"
   },
   {
@@ -4948,7 +4948,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 14,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  21:22   Yeah, I can imagine that with the uncertainty with taking those risks when things do work out, it must feel really amazing knowing that it worked out because of everything that you did.   Nada Miljkovic  21:34   Yeah. But some of the hardest parts have been trying to start businesses with other people. I tell my students, when you do that kind of thing, you're in some ways marrying this person. And so you have to be really careful who you want to partner with. In a small business.",
-    "quote": "\u201cWhen you do that kind of thing, you're in some ways marrying this person... you have to be really careful who you want to partner with.\u201d",
+    "quote": "When you do that kind of thing, you're in some ways marrying this person... you have to be really careful who you want to partner with.",
     "initial_code": "Choosing Business Partners Carefully"
   },
   {
@@ -4966,7 +4966,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 16,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  22:43   Yeah, absolutely. And what is the Earth Lab in San Francisco that you work with?  Nada Miljkovic  22:47   The Earth Lab is a new nonprofit that I am the president of the board with it. The executive directors are ELIZABETH STEVENS and Annie Sprinkle. These are Santa Cruz Mountain residents. ELIZABETH STEVENS is an art professor at UCSC. And she and her partner Annie sprinkle who is a sexologist. They're both performance artists, they're incredible artists.",
-    "quote": "\u201cThe Earth Lab is a new nonprofit... ELIZABETH STEVENS is an art professor at UCSC... they\u2019re both performance artists, they\u2019re incredible artists.\u201d",
+    "quote": "The Earth Lab is a new nonprofit... ELIZABETH STEVENS is an art professor at UCSC... they\u2019re both performance artists, they\u2019re incredible artists.",
     "initial_code": "Creative Collaboration in Environmental Work"
   },
   {
@@ -4984,7 +4984,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 19,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  24:33   Yeah, I agree. That's really great stuff. And do you want to talk about why the work that you do is important to yourself personally and or to society?  Nada Miljkovic  24:42   Well, like I was saying, I feel like the Earth is in need of champions. And I'm not just an environmentalist, I'm also a social justice activist. I actually call myself an artivist. I use my art practice as my activism, and so with my environmentalism and my social justice activism, I really want to do as much as I can to both help people and help the earth , all living creatures.  And that's what I was saying about being choosy with who my cut my clients are. If my clients aren't in alignment with doing something that's going to make the world a better place in some way, not just taking, but actually giving back more, then I'm happy to help.",
-    "quote": "\u201cI use my art practice as my activism... I really want to do as much as I can to both help people and help the earth... I\u2019m choosy with clients\u2014I want to make the world a better place.\u201d",
+    "quote": "I use my art practice as my activism... I really want to do as much as I can to both help people and help the earth... I\u2019m choosy with clients\u2014I want to make the world a better place.",
     "initial_code": "Values-Driven Work / Art as Activism"
   },
   {
@@ -5372,7 +5372,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  12:23  I mean, not to mention being a principal at Bayview Elementary. That's definitely like a full time job. You want to talk kind of about what your typical day or work looks like? And has that changed over the past two years? I think you told me before the interview that you're at school every day, even when it was on lockdown. Rene Golder  12:41  Yeah, so how it's changed I think since the pandemic is I feel like I've gotten lazy or actually because I used to wake up at five religiously and go work out  whether it's running or Pilates or  something like that. Now, I feel like I'm a little slacker-ish. So, I try most days to wake up and do a workout before work. But sometimes I don't, I have to admit. And so I try to get to work by like 7:30. And then I'm here at school, until usually 3:30 to five most days. And throughout the day while I'm here, I'm in meetings, I'm in classrooms, I'm out on the playground, I'm talking to parents. I'm coordinating things that need to be done with the district office and that's kind of what it's like to be a principal. It's a little bit different than being in the classroom. And then after work, if I have any city council business, I take care of that, like meetings or things like that. If I don't, then I am just like most people, I go home and I check in with my kids. Luckily my kids are getting a little older so my son drives himself where he needs to go and my daughter sometimes bikes but just like most parents, I have to do carpool sometimes for different activities. And then I love eating at home. And so I make dinner probably four nights a week or maybe more and do family dinner. I'm really close with my sister and her husband and their kids. And actually one of them's a fifth grader here at Bayview. So we have dinner together three or four nights a week if possible. And then after dinner, I find myself checking emails responding to emails, and then it's just shower and bed. I'm in bed pretty early though. I'm a total bed troll",
-    "quote": "\u201cI feel like I've gotten lazy or actually because I used to wake up at five religiously and go work out... Now, I feel like I'm a little slacker-ish. So, I try most days to wake up and do a workout before work.\u201d",
+    "quote": "I feel like I've gotten lazy or actually because I used to wake up at five religiously and go work out... Now, I feel like I'm a little slacker-ish. So, I try most days to wake up and do a workout before work.",
     "initial_code": "Work-Life Balance"
   },
   {
@@ -5388,7 +5388,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  12:23  I mean, not to mention being a principal at Bayview Elementary. That's definitely like a full time job. You want to talk kind of about what your typical day or work looks like? And has that changed over the past two years? I think you told me before the interview that you're at school every day, even when it was on lockdown. Rene Golder  12:41  Yeah, so how it's changed I think since the pandemic is I feel like I've gotten lazy or actually because I used to wake up at five religiously and go work out  whether it's running or Pilates or  something like that. Now, I feel like I'm a little slacker-ish. So, I try most days to wake up and do a workout before work. But sometimes I don't, I have to admit. And so I try to get to work by like 7:30. And then I'm here at school, until usually 3:30 to five most days. And throughout the day while I'm here, I'm in meetings, I'm in classrooms, I'm out on the playground, I'm talking to parents. I'm coordinating things that need to be done with the district office and that's kind of what it's like to be a principal. It's a little bit different than being in the classroom. And then after work, if I have any city council business, I take care of that, like meetings or things like that. If I don't, then I am just like most people, I go home and I check in with my kids. Luckily my kids are getting a little older so my son drives himself where he needs to go and my daughter sometimes bikes but just like most parents, I have to do carpool sometimes for different activities. And then I love eating at home. And so I make dinner probably four nights a week or maybe more and do family dinner. I'm really close with my sister and her husband and their kids. And actually one of them's a fifth grader here at Bayview. So we have dinner together three or four nights a week if possible. And then after dinner, I find myself checking emails responding to emails, and then it's just shower and bed. I'm in bed pretty early though. I'm a total bed troll",
-    "quote": "\u201cAnd throughout the day while I'm here, I'm in meetings, I'm in classrooms, I'm out on the playground, I'm talking to parents. I'm coordinating things that need to be done with the district office and that's kind of what it's like to be a principal.\u201d",
+    "quote": "And throughout the day while I'm here, I'm in meetings, I'm in classrooms, I'm out on the playground, I'm talking to parents. I'm coordinating things that need to be done with the district office and that's kind of what it's like to be a principal.",
     "initial_code": "Understanding Job Roles"
   },
   {
@@ -5404,7 +5404,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  12:23  I mean, not to mention being a principal at Bayview Elementary. That's definitely like a full time job. You want to talk kind of about what your typical day or work looks like? And has that changed over the past two years? I think you told me before the interview that you're at school every day, even when it was on lockdown. Rene Golder  12:41  Yeah, so how it's changed I think since the pandemic is I feel like I've gotten lazy or actually because I used to wake up at five religiously and go work out  whether it's running or Pilates or  something like that. Now, I feel like I'm a little slacker-ish. So, I try most days to wake up and do a workout before work. But sometimes I don't, I have to admit. And so I try to get to work by like 7:30. And then I'm here at school, until usually 3:30 to five most days. And throughout the day while I'm here, I'm in meetings, I'm in classrooms, I'm out on the playground, I'm talking to parents. I'm coordinating things that need to be done with the district office and that's kind of what it's like to be a principal. It's a little bit different than being in the classroom. And then after work, if I have any city council business, I take care of that, like meetings or things like that. If I don't, then I am just like most people, I go home and I check in with my kids. Luckily my kids are getting a little older so my son drives himself where he needs to go and my daughter sometimes bikes but just like most parents, I have to do carpool sometimes for different activities. And then I love eating at home. And so I make dinner probably four nights a week or maybe more and do family dinner. I'm really close with my sister and her husband and their kids. And actually one of them's a fifth grader here at Bayview. So we have dinner together three or four nights a week if possible. And then after dinner, I find myself checking emails responding to emails, and then it's just shower and bed. I'm in bed pretty early though. I'm a total bed troll",
-    "quote": "\u201cI'm really close with my sister and her husband and their kids... we have dinner together three or four nights a week if possible.\u201d",
+    "quote": "I'm really close with my sister and her husband and their kids... we have dinner together three or four nights a week if possible.",
     "initial_code": "Community and Networking"
   },
   {
@@ -5420,7 +5420,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 9,
     "transcript_excerpt_text": "Interviewer (Patrick Harte)  12:23  I mean, not to mention being a principal at Bayview Elementary. That's definitely like a full time job. You want to talk kind of about what your typical day or work looks like? And has that changed over the past two years? I think you told me before the interview that you're at school every day, even when it was on lockdown. Rene Golder  12:41  Yeah, so how it's changed I think since the pandemic is I feel like I've gotten lazy or actually because I used to wake up at five religiously and go work out  whether it's running or Pilates or  something like that. Now, I feel like I'm a little slacker-ish. So, I try most days to wake up and do a workout before work. But sometimes I don't, I have to admit. And so I try to get to work by like 7:30. And then I'm here at school, until usually 3:30 to five most days. And throughout the day while I'm here, I'm in meetings, I'm in classrooms, I'm out on the playground, I'm talking to parents. I'm coordinating things that need to be done with the district office and that's kind of what it's like to be a principal. It's a little bit different than being in the classroom. And then after work, if I have any city council business, I take care of that, like meetings or things like that. If I don't, then I am just like most people, I go home and I check in with my kids. Luckily my kids are getting a little older so my son drives himself where he needs to go and my daughter sometimes bikes but just like most parents, I have to do carpool sometimes for different activities. And then I love eating at home. And so I make dinner probably four nights a week or maybe more and do family dinner. I'm really close with my sister and her husband and their kids. And actually one of them's a fifth grader here at Bayview. So we have dinner together three or four nights a week if possible. And then after dinner, I find myself checking emails responding to emails, and then it's just shower and bed. I'm in bed pretty early though. I'm a total bed troll",
-    "quote": "\u201cI try to get to work by like 7:30. And then I'm here at school, until usually 3:30 to five most days.\u201d",
+    "quote": "I try to get to work by like 7:30. And then I'm here at school, until usually 3:30 to five most days.",
     "initial_code": "Time Management"
   },
   {
@@ -5843,7 +5843,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5859,7 +5859,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5875,7 +5875,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5891,7 +5891,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5907,7 +5907,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5923,7 +5923,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5939,7 +5939,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5955,7 +5955,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5971,7 +5971,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5980,14 +5980,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 15,
     "transcript_excerpt_text": "Patrick Hart  20:47   I know. That's like another silver lining, you know, that's come out of this is like, there's like more things like more restaurants have created outdoor seating in which I've always preferred to sit outside if I can, you know, warm. So like things like that. You know, there are there have been some silver linings.     Patricia Greenway  21:03   Yes, yeah. And I'm just going to add to that I'm saying this because I have a dog, but I think a lot more restaurants because they now have the outdoor seating have been a lot more welcoming and a lot more dog friendly. And I love seeing that because it's so nice for families to be able to take their dog with him if they want to go have a meal together. Because dogs are such a huge part of your family",
-    "quote": "\u201cMore restaurants have created outdoor seating\u201d",
+    "quote": "More restaurants have created outdoor seating",
     "initial_code": "Work-life balance"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -5996,14 +5996,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 15,
     "transcript_excerpt_text": "Patrick Hart  20:47   I know. That's like another silver lining, you know, that's come out of this is like, there's like more things like more restaurants have created outdoor seating in which I've always preferred to sit outside if I can, you know, warm. So like things like that. You know, there are there have been some silver linings.     Patricia Greenway  21:03   Yes, yeah. And I'm just going to add to that I'm saying this because I have a dog, but I think a lot more restaurants because they now have the outdoor seating have been a lot more welcoming and a lot more dog friendly. And I love seeing that because it's so nice for families to be able to take their dog with him if they want to go have a meal together. Because dogs are such a huge part of your family",
-    "quote": "\u201cI think a lot more restaurants because they now have the outdoor seating have been a lot more welcoming and a lot more dog friendly.\u201d",
+    "quote": "I think a lot more restaurants because they now have the outdoor seating have been a lot more welcoming and a lot more dog friendly.",
     "initial_code": "Wellness and community"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6012,14 +6012,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 16,
     "transcript_excerpt_text": "Patrick Hart  21:24   for sure. And if you go to the bittersweet bistro they have the dogs have their own menu. Yes, yes. It's like pretty simple. It's like a chicken Patty maybe or like a beef thing. But anyways, I thought that was kind of funny. And fun, too. Yeah. You know the dog. Yeah, yeah, it is. For those who are just tuning in, you're listening to the what to be show on KSQD Santa Cruz 90.7. FM. Patrick Hart, and I'm speaking with Patricia Greenway, who was on the board of directors and president of access to employment, and is a Career Specialist with Santa Cruz city schools, as well as on the board of directors for the Santa Cruz Symphony league. And Patricia, I was wondering, you know what, you do a lot of different interesting and great things in our community. And what would you say? What kind of skills do you use in your career? And how did you acquire these skills was it mainly just through working, maybe your personality type or through your education, background,     Patricia Greenway  22:19   a combination of all of those. I do a lot of writing with all three of those positions. I also do a lot of graphic design with access to employment, and the symphony League, I also do a lot of online social media marketing and promoting with access to employment, and the symphony League. I've always been a very social person, and a very creative person. So I think all three of those positions offer me a great opportunity to utilize both of those the creativity and the the social aspect of just my true character. I was I was a former automotive journalist. I've always enjoyed writing, and I love cars and racing. So it was something I was very interested in at one point. And I was an automotive journalist for gosh, for I think, almost five years. And it really helped me kind of fine tune my my writing skills. And I use a lot of that with my career development specialist job with Santa Cruz city schools, I have to do reports, annual reports and monthly reports for the special ed students that I work with for their IEP meetings. And, you know, needless to say, with a lot of the the marketing that I do for access to employment and the symphony League, that also entails a lot of writing, whether it's, you know, creating a brochure, or creating a flyer or creating something for a website or creating a social media post. There's there's always a lot of writing that I do, I would say almost on a daily basis. I also write a lot of letters to employers and donors trying to raise money for the symphony League and then just writing letters to employers for access to employment and Santa Cruz city schools to try to encourage them to get involved with hiring youth or hiring people with disabilities in our in our community. Well,",
-    "quote": "\u201cI do a lot of writing with all three of those positions. I also do a lot of graphic design with access to employment, and the symphony League, I also do a lot of online social media marketing and promoting with access to employment, and the symphony League.\u201d",
+    "quote": "I do a lot of writing with all three of those positions. I also do a lot of graphic design with access to employment, and the symphony League, I also do a lot of online social media marketing and promoting with access to employment, and the symphony League.",
     "initial_code": "Skills"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6028,14 +6028,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 16,
     "transcript_excerpt_text": "Patrick Hart  21:24   for sure. And if you go to the bittersweet bistro they have the dogs have their own menu. Yes, yes. It's like pretty simple. It's like a chicken Patty maybe or like a beef thing. But anyways, I thought that was kind of funny. And fun, too. Yeah. You know the dog. Yeah, yeah, it is. For those who are just tuning in, you're listening to the what to be show on KSQD Santa Cruz 90.7. FM. Patrick Hart, and I'm speaking with Patricia Greenway, who was on the board of directors and president of access to employment, and is a Career Specialist with Santa Cruz city schools, as well as on the board of directors for the Santa Cruz Symphony league. And Patricia, I was wondering, you know what, you do a lot of different interesting and great things in our community. And what would you say? What kind of skills do you use in your career? And how did you acquire these skills was it mainly just through working, maybe your personality type or through your education, background,     Patricia Greenway  22:19   a combination of all of those. I do a lot of writing with all three of those positions. I also do a lot of graphic design with access to employment, and the symphony League, I also do a lot of online social media marketing and promoting with access to employment, and the symphony League. I've always been a very social person, and a very creative person. So I think all three of those positions offer me a great opportunity to utilize both of those the creativity and the the social aspect of just my true character. I was I was a former automotive journalist. I've always enjoyed writing, and I love cars and racing. So it was something I was very interested in at one point. And I was an automotive journalist for gosh, for I think, almost five years. And it really helped me kind of fine tune my my writing skills. And I use a lot of that with my career development specialist job with Santa Cruz city schools, I have to do reports, annual reports and monthly reports for the special ed students that I work with for their IEP meetings. And, you know, needless to say, with a lot of the the marketing that I do for access to employment and the symphony League, that also entails a lot of writing, whether it's, you know, creating a brochure, or creating a flyer or creating something for a website or creating a social media post. There's there's always a lot of writing that I do, I would say almost on a daily basis. I also write a lot of letters to employers and donors trying to raise money for the symphony League and then just writing letters to employers for access to employment and Santa Cruz city schools to try to encourage them to get involved with hiring youth or hiring people with disabilities in our in our community. Well,",
-    "quote": "\u201cI've always been a very social person, and a very creative person. So I think all three of those positions offer me a great opportunity to utilize both of those the creativity and the social aspect of just my true character.\u201d",
+    "quote": "I've always been a very social person, and a very creative person. So I think all three of those positions offer me a great opportunity to utilize both of those the creativity and the social aspect of just my true character.",
     "initial_code": "Creativity"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6044,14 +6044,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 16,
     "transcript_excerpt_text": "Patrick Hart  21:24   for sure. And if you go to the bittersweet bistro they have the dogs have their own menu. Yes, yes. It's like pretty simple. It's like a chicken Patty maybe or like a beef thing. But anyways, I thought that was kind of funny. And fun, too. Yeah. You know the dog. Yeah, yeah, it is. For those who are just tuning in, you're listening to the what to be show on KSQD Santa Cruz 90.7. FM. Patrick Hart, and I'm speaking with Patricia Greenway, who was on the board of directors and president of access to employment, and is a Career Specialist with Santa Cruz city schools, as well as on the board of directors for the Santa Cruz Symphony league. And Patricia, I was wondering, you know what, you do a lot of different interesting and great things in our community. And what would you say? What kind of skills do you use in your career? And how did you acquire these skills was it mainly just through working, maybe your personality type or through your education, background,     Patricia Greenway  22:19   a combination of all of those. I do a lot of writing with all three of those positions. I also do a lot of graphic design with access to employment, and the symphony League, I also do a lot of online social media marketing and promoting with access to employment, and the symphony League. I've always been a very social person, and a very creative person. So I think all three of those positions offer me a great opportunity to utilize both of those the creativity and the the social aspect of just my true character. I was I was a former automotive journalist. I've always enjoyed writing, and I love cars and racing. So it was something I was very interested in at one point. And I was an automotive journalist for gosh, for I think, almost five years. And it really helped me kind of fine tune my my writing skills. And I use a lot of that with my career development specialist job with Santa Cruz city schools, I have to do reports, annual reports and monthly reports for the special ed students that I work with for their IEP meetings. And, you know, needless to say, with a lot of the the marketing that I do for access to employment and the symphony League, that also entails a lot of writing, whether it's, you know, creating a brochure, or creating a flyer or creating something for a website or creating a social media post. There's there's always a lot of writing that I do, I would say almost on a daily basis. I also write a lot of letters to employers and donors trying to raise money for the symphony League and then just writing letters to employers for access to employment and Santa Cruz city schools to try to encourage them to get involved with hiring youth or hiring people with disabilities in our in our community. Well,",
-    "quote": "\u201cI was an automotive journalist for gosh, for I think, almost five years. And it really helped me kind of fine tune my my writing skills.\u201d",
+    "quote": "I was an automotive journalist for gosh, for I think, almost five years. And it really helped me kind of fine tune my my writing skills.",
     "initial_code": "Professional Development"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6060,14 +6060,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 16,
     "transcript_excerpt_text": "Patrick Hart  21:24   for sure. And if you go to the bittersweet bistro they have the dogs have their own menu. Yes, yes. It's like pretty simple. It's like a chicken Patty maybe or like a beef thing. But anyways, I thought that was kind of funny. And fun, too. Yeah. You know the dog. Yeah, yeah, it is. For those who are just tuning in, you're listening to the what to be show on KSQD Santa Cruz 90.7. FM. Patrick Hart, and I'm speaking with Patricia Greenway, who was on the board of directors and president of access to employment, and is a Career Specialist with Santa Cruz city schools, as well as on the board of directors for the Santa Cruz Symphony league. And Patricia, I was wondering, you know what, you do a lot of different interesting and great things in our community. And what would you say? What kind of skills do you use in your career? And how did you acquire these skills was it mainly just through working, maybe your personality type or through your education, background,     Patricia Greenway  22:19   a combination of all of those. I do a lot of writing with all three of those positions. I also do a lot of graphic design with access to employment, and the symphony League, I also do a lot of online social media marketing and promoting with access to employment, and the symphony League. I've always been a very social person, and a very creative person. So I think all three of those positions offer me a great opportunity to utilize both of those the creativity and the the social aspect of just my true character. I was I was a former automotive journalist. I've always enjoyed writing, and I love cars and racing. So it was something I was very interested in at one point. And I was an automotive journalist for gosh, for I think, almost five years. And it really helped me kind of fine tune my my writing skills. And I use a lot of that with my career development specialist job with Santa Cruz city schools, I have to do reports, annual reports and monthly reports for the special ed students that I work with for their IEP meetings. And, you know, needless to say, with a lot of the the marketing that I do for access to employment and the symphony League, that also entails a lot of writing, whether it's, you know, creating a brochure, or creating a flyer or creating something for a website or creating a social media post. There's there's always a lot of writing that I do, I would say almost on a daily basis. I also write a lot of letters to employers and donors trying to raise money for the symphony League and then just writing letters to employers for access to employment and Santa Cruz city schools to try to encourage them to get involved with hiring youth or hiring people with disabilities in our in our community. Well,",
-    "quote": "\u201cI also write a lot of letters to employers and donors trying to raise money for the symphony League and then just writing letters to employers for access to employment and Santa Cruz city schools to try to encourage them to get involved with hiring youth or hiring people with disabilities in our community.\u201d",
+    "quote": "I also write a lot of letters to employers and donors trying to raise money for the symphony League and then just writing letters to employers for access to employment and Santa Cruz city schools to try to encourage them to get involved with hiring youth or hiring people with disabilities in our community.",
     "initial_code": "Networking"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6076,14 +6076,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 17,
     "transcript_excerpt_text": "Patrick Hart  24:11   I think thank you for sharing that. And that seems like a common theme with a lot of people that I interview is that you know, just how much they value, the importance of writing. So yeah, I think that's a great skill to have.     #CAREER DEVELOPMENT AND JOB READINESS FOR YOUTH.     Patricia Greenway  24:24   Yeah, I mean, I also do, you know, I, I developed a curriculum for employment preparation, not only for youth employment preparation, but I also developed an inmate employment preparation program with the Sheriff's Department. This was pre COVID. So I was going to two different jails in Santa Cruz County, working with inmates, helping them kind of prepare for reentry and finding employment and helping them get set up with things that they needed to do to secure employment and kind of reenter society. So you know, that obviously entailed a lot of writing but you know, With the workshops I do, there's a lot of resume and cover letter writing that I do with the inmates and the students that I work with. So that entails a lot of writing. So it takes a lot of skill for me to sit down with those folks and kind of coach them on using proper grammar using correct spelling, and you know how to word things when you're writing cover letters and resumes. And it's always fun for me to sit down with someone who says a student who says, I've never had a job, you're not gonna be able to do a resume for me, I have nothing to put on my resume. And then I sit down and I say, Okay, let's look at your qualifications. You're bilingual, right? Yes. Okay. Well, let's put that on your resume. Huh? You have a food handler certification, right? Yes. Okay. Well, let's put that on your resume. Let's see you've done babysitting. So you have your first aid and your CPR certification for babysitting, right? Yes. Okay. Well, let's add that to your resume. Okay, let's move on. Let's look at your experience. Well, I've never had a job. I don't have any experience. Okay, well, that's not true. You've done volunteering, right? You've done fundraising for the cheerleading squad here at school. So that's experience or you've done that career technical education class for bike bicycle technology, right? Yes. Okay, that's experience. And they go, Wow, I never knew I could put this stuff on my resume. Pa, okay, I guess I can do a resume. So it's always interesting to sit down with a youth who has never really thought about what they could put on their resume, because they have this misconception that just because they've never had a job before that they can't write a resume. So when I sit down with them, and they start developing a resume, they, they you almost like see their their face light up, because they feel proud of themselves that they've accomplished these things. And they do realize that they have experienced that will help them get their foot in the door for their first job. Oh,",
-    "quote": "\u201cI also do, you know, I, I developed a curriculum for employment preparation, not only for youth employment preparation, but I also developed an inmate employment preparation program with the Sheriff's Department.\u201d",
+    "quote": "I also do, you know, I, I developed a curriculum for employment preparation, not only for youth employment preparation, but I also developed an inmate employment preparation program with the Sheriff's Department.",
     "initial_code": "Career Preparation"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6092,14 +6092,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 17,
     "transcript_excerpt_text": "Patrick Hart  24:11   I think thank you for sharing that. And that seems like a common theme with a lot of people that I interview is that you know, just how much they value, the importance of writing. So yeah, I think that's a great skill to have.     #CAREER DEVELOPMENT AND JOB READINESS FOR YOUTH.     Patricia Greenway  24:24   Yeah, I mean, I also do, you know, I, I developed a curriculum for employment preparation, not only for youth employment preparation, but I also developed an inmate employment preparation program with the Sheriff's Department. This was pre COVID. So I was going to two different jails in Santa Cruz County, working with inmates, helping them kind of prepare for reentry and finding employment and helping them get set up with things that they needed to do to secure employment and kind of reenter society. So you know, that obviously entailed a lot of writing but you know, With the workshops I do, there's a lot of resume and cover letter writing that I do with the inmates and the students that I work with. So that entails a lot of writing. So it takes a lot of skill for me to sit down with those folks and kind of coach them on using proper grammar using correct spelling, and you know how to word things when you're writing cover letters and resumes. And it's always fun for me to sit down with someone who says a student who says, I've never had a job, you're not gonna be able to do a resume for me, I have nothing to put on my resume. And then I sit down and I say, Okay, let's look at your qualifications. You're bilingual, right? Yes. Okay. Well, let's put that on your resume. Huh? You have a food handler certification, right? Yes. Okay. Well, let's put that on your resume. Let's see you've done babysitting. So you have your first aid and your CPR certification for babysitting, right? Yes. Okay. Well, let's add that to your resume. Okay, let's move on. Let's look at your experience. Well, I've never had a job. I don't have any experience. Okay, well, that's not true. You've done volunteering, right? You've done fundraising for the cheerleading squad here at school. So that's experience or you've done that career technical education class for bike bicycle technology, right? Yes. Okay, that's experience. And they go, Wow, I never knew I could put this stuff on my resume. Pa, okay, I guess I can do a resume. So it's always interesting to sit down with a youth who has never really thought about what they could put on their resume, because they have this misconception that just because they've never had a job before that they can't write a resume. So when I sit down with them, and they start developing a resume, they, they you almost like see their their face light up, because they feel proud of themselves that they've accomplished these things. And they do realize that they have experienced that will help them get their foot in the door for their first job. Oh,",
-    "quote": "\u201cIt's always fun for me to sit down with someone who says a student who says, I've never had a job, you're not gonna be able to do a resume for me, I have nothing to put on my resume. And then I sit down and I say, Okay, let's look at your qualifications.\u201d",
+    "quote": "It's always fun for me to sit down with someone who says a student who says, I've never had a job, you're not gonna be able to do a resume for me, I have nothing to put on my resume. And then I sit down and I say, Okay, let's look at your qualifications.",
     "initial_code": "Resume Building"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6108,14 +6108,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 18,
     "transcript_excerpt_text": "Patricia Greenway 26:45",
-    "quote": "\u201cSo it's always interesting to sit down with a youth who has never really thought about what they could put on their resume, because they have this misconception that just because they've never had a job before that they can't write a resume.\u201d",
+    "quote": "So it's always interesting to sit down with a youth who has never really thought about what they could put on their resume, because they have this misconception that just because they've never had a job before that they can't write a resume.",
     "initial_code": "Challenging Assumptions About Experience"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6124,14 +6124,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 19,
     "transcript_excerpt_text": "Patricia Greenway 27:04",
-    "quote": "\u201cStudents who do career assessments in middle school and do career exploration are typically more likely to not only be successful in their careers, also tend to stick with those careers and tend to be happier in their careers.\u201d",
+    "quote": "Students who do career assessments in middle school and do career exploration are typically more likely to not only be successful in their careers, also tend to stick with those careers and tend to be happier in their careers.",
     "initial_code": "Value of Early Career Assessment"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6140,14 +6140,14 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 21,
     "transcript_excerpt_text": "Patricia Greenway 27:35",
-    "quote": "\u201cI think one of the top things I would advise not only students but parents as well is to take advantage of what the schools offer in terms of career technical education, or even at the college level.\u201d",
+    "quote": "I think one of the top things I would advise not only students but parents as well is to take advantage of what the schools offer in terms of career technical education, or even at the college level.",
     "initial_code": "Encouraging Use of Educational Career Resources"
   },
   {
     "podcast_number": 154,
     "podcast_title": "Patricia Greenway, Santa Cruz City Schools Career Development Specialist",
     "podcast_link": "https://soundcloud.com/what-to-be/patricia-greenway-santa-cruz-city-schools-career-development-specialist",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "Career Development Advisor",
     "industry_sectors": [
       "Education",
@@ -6163,7 +6163,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6179,7 +6179,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6195,7 +6195,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6211,7 +6211,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo CollegeChristina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6227,7 +6227,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6243,7 +6243,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6259,7 +6259,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6275,7 +6275,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6291,7 +6291,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6307,7 +6307,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6323,7 +6323,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6339,7 +6339,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6355,7 +6355,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6371,7 +6371,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6387,7 +6387,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6403,7 +6403,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6419,7 +6419,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6435,7 +6435,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6451,7 +6451,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6467,7 +6467,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6483,7 +6483,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6499,7 +6499,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6515,7 +6515,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6531,7 +6531,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6547,7 +6547,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -6563,7 +6563,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     "podcast_number": 165,
     "podcast_title": "Christina Ortega, Academic Counselor and Transfer Coordinator Cabrillo College",
     "podcast_link": "https://soundcloud.com/what-to-be/christina-ortega-academic-counselor-transfer-coordinator-cabrillo-college",
-    "interviewee_name": "Patrick Hart",
+    "interviewee_name": "Patricia Greenway",
     "career": "College Counselor",
     "industry_sectors": [
       "Education",
@@ -7346,7 +7346,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer  1:07   Dean, you've done a lot of cool stuff with your chef career. Would you please describe your career journey for us?  Dean Bussiere  1:14   I grew up in a big family. We were a Brady Bunch and I had five sisters and three brothers. Both my parents worked. So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on and ended up in school for aeronautical engineering at UConn, but I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying. So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America finally went up to Hyde Park, New York and was working my way through school and was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part. I didn't realize it at the time responsible, but never looked back. I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel. And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
-    "quote": "\u201cSo I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on\u2026\u201d",
+    "quote": "So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on\u2026",
     "initial_code": "Start early and learn by doing"
   },
   {
@@ -7362,7 +7362,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer  1:07   Dean, you've done a lot of cool stuff with your chef career. Would you please describe your career journey for us?  Dean Bussiere  1:14   I grew up in a big family. We were a Brady Bunch and I had five sisters and three brothers. Both my parents worked. So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on and ended up in school for aeronautical engineering at UConn, but I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying. So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America finally went up to Hyde Park, New York and was working my way through school and was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part. I didn't realize it at the time responsible, but never looked back. I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel. And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
-    "quote": "\u201cI was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying.\u201d",
+    "quote": "I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying.",
     "initial_code": "Discover your passion through experience"
   },
   {
@@ -7378,7 +7378,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer  1:07   Dean, you've done a lot of cool stuff with your chef career. Would you please describe your career journey for us?  Dean Bussiere  1:14   I grew up in a big family. We were a Brady Bunch and I had five sisters and three brothers. Both my parents worked. So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on and ended up in school for aeronautical engineering at UConn, but I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying. So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America finally went up to Hyde Park, New York and was working my way through school and was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part. I didn't realize it at the time responsible, but never looked back. I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel. And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
-    "quote": "\u201cSo I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America\u2026\u201d",
+    "quote": "So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America\u2026",
     "initial_code": "Be willing to pivot when you find your calling"
   },
   {
@@ -7394,7 +7394,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer  1:07   Dean, you've done a lot of cool stuff with your chef career. Would you please describe your career journey for us?  Dean Bussiere  1:14   I grew up in a big family. We were a Brady Bunch and I had five sisters and three brothers. Both my parents worked. So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on and ended up in school for aeronautical engineering at UConn, but I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying. So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America finally went up to Hyde Park, New York and was working my way through school and was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part. I didn't realize it at the time responsible, but never looked back. I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel. And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
-    "quote": "\u201cI was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part.\u201d",
+    "quote": "I was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part.",
     "initial_code": "Avoid debt by working through school"
   },
   {
@@ -7410,7 +7410,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer  1:07   Dean, you've done a lot of cool stuff with your chef career. Would you please describe your career journey for us?  Dean Bussiere  1:14   I grew up in a big family. We were a Brady Bunch and I had five sisters and three brothers. Both my parents worked. So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on and ended up in school for aeronautical engineering at UConn, but I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying. So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America finally went up to Hyde Park, New York and was working my way through school and was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part. I didn't realize it at the time responsible, but never looked back. I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel. And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
-    "quote": "\u201cI came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel.\u201d",
+    "quote": "I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel.",
     "initial_code": "Take opportunities that lead to growth"
   },
   {
@@ -7426,7 +7426,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 3,
     "transcript_excerpt_text": "Interviewer  1:07   Dean, you've done a lot of cool stuff with your chef career. Would you please describe your career journey for us?  Dean Bussiere  1:14   I grew up in a big family. We were a Brady Bunch and I had five sisters and three brothers. Both my parents worked. So I started cooking as a kid just to feed myself. And my first job was at the local dairy bar. I started as a dishwasher prep cook and really loved it worked my way up quickly. I was a line cook within two years and eventually learned everything there was in that business and then moved on and ended up in school for aeronautical engineering at UConn, but I was putting myself through school, cooking, and realized I didn't want to be an engineer. I preferred to be on my feet and the creativity that Culinary Arts allowed me was much more satisfying. So I dropped out and went to resort Yacht Harbor down in Florida, off of the keys and did two years down there and got into the Culinary Institute of America finally went up to Hyde Park, New York and was working my way through school and was able to graduate with an associate's degree within two years and debt free, because I worked the whole time and paid in advance for my classes. So that was a very smart move on my part. I didn't realize it at the time responsible, but never looked back. I came to the west coast to work at the Ahwahnee hotel when I graduated and was up in Yosemite National Park for six years. Ended up as executive chef at the Wawona hotel. And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
-    "quote": "\u201cAnd that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.\u201d",
+    "quote": "And that's where I met my wife, Wendy, and we moved down here in 2000. And now have three boys and beautiful home here in Santa Cruz and just love it.",
     "initial_code": "Career choices shape your life path"
   },
   {
@@ -7442,7 +7442,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 6,
     "transcript_excerpt_text": "Interviewer  3:36   How was your time in New York at the Culinary Institute?  Dean Bussiere  3:39   It was real hard. eight hour work days and eight hour class days. I was lucky to sleep six hours and I was working on the weekends as well. I did get some time to do some bike riding through the Vanderbilt and Roosevelt mansions that mid Hudson area really beautiful area, but I was mostly working and sleeping when I could.",
-    "quote": "\u201cIt was real hard. eight hour work days and eight hour class days. I was lucky to sleep six hours and I was working on the weekends as well... but I was mostly working and sleeping when I could.\u201d",
+    "quote": "It was real hard. eight hour work days and eight hour class days. I was lucky to sleep six hours and I was working on the weekends as well... but I was mostly working and sleeping when I could.",
     "initial_code": "Success requires sacrifice and time management"
   },
   {
@@ -7458,7 +7458,7 @@ export const defaultCareerInsights: InsertCareerInsight[] = [
     ],
     "transcript_excerpt_number": 8,
     "transcript_excerpt_text": "Interviewer  4:16   So yeah, busy times.   Dean Bussiere  4:18   NonStop.",
-    "quote": "\u201cNonStop.\u201d",
+    "quote": "NonStop.",
     "initial_code": "Relentless work ethic is part of the journey"
   },
   {
