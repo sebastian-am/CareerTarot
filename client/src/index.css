@@ -56,3 +56,63 @@
     @apply font-sans antialiased bg-background text-foreground;
   }
 }
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-down {
+  animation: fadeInDown 1.2s ease-out forwards;
+}
+
+.animate-fade-in-down-delay-1 {
+  animation: fadeInDown 1.2s ease-out 0.2s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-2 {
+  animation: fadeInDown 1.2s ease-out 0.4s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-3 {
+  animation: fadeInDown 1.2s ease-out 0.6s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-4 {
+  animation: fadeInDown 1.2s ease-out 0.8s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-5 {
+  animation: fadeInDown 1.2s ease-out 1.0s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-6 {
+  animation: fadeInDown 1.2s ease-out 1.2s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-7 {
+  animation: fadeInDown 1.2s ease-out 1.4s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-8 {
+  animation: fadeInDown 1.2s ease-out 1.6s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-down-delay-9 {
+  animation: fadeInDown 1.2s ease-out 1.8s forwards;
+  opacity: 0;
+}

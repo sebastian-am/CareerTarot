@@ -120,16 +120,16 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8 flex flex-col min-h-screen">
         {/* Header */}
         <header className="text-center py-6 md:py-10">
-          <h1 className="text-4xl md:text-5xl font-playfair font-bold mb-1 text-golden-300">Via Fata</h1>
+          <h1 className="text-4xl md:text-5xl font-playfair font-bold mb-1 text-golden-300 animate-fade-in-down">Via Fata</h1>
           <div className="mb-2">
-            <span className="block italic text-golden-200 text-lg md:text-xl" style={{ fontSize: '1.1rem' }}>The Path of Fate</span>
+            <span className="block italic text-golden-200 text-lg md:text-xl animate-fade-in-down-delay-1" style={{ fontSize: '1.1rem' }}>The Path of Fate</span>
           </div>
           <div className="mt-8 mb-4">
-            <p className="text-mystical-200 text-lg md:text-xl max-w-xl mx-auto">
+            <p className="text-mystical-200 text-lg md:text-xl max-w-xl mx-auto animate-fade-in-down-delay-2">
               Draw a card to receive career wisdom from industry professionals
             </p>
           </div>
-          <div className="text-sm text-mystical-300 mt-2">
+          <div className="text-sm text-mystical-300 mt-2 animate-fade-in-down-delay-3">
             <span>By <a href="#" className="underline hover:text-golden-300 transition-colors">Your Future Is Our Business</a></span>
           </div>
         </header>
@@ -140,15 +140,17 @@ export default function Home() {
             {viewMode === 'card' && (
               <>
                 {isLoading ? (
-                  <div className="w-64 h-96 bg-mystical-800/50 rounded-xl border-2 border-golden-400/50 animate-pulse flex items-center justify-center">
-                    <span className="text-mystical-200">Loading...</span>
+                  <div className="w-full h-[500px] flex items-center justify-center">
+                    <div className="w-64 h-96 bg-mystical-800/50 rounded-xl border-2 border-golden-400/50 animate-pulse"></div>
                   </div>
                 ) : (
                   <>
                     {!currentCard ? (
-                      <div className="text-center mb-8 animate-fade-in">
-                        <p className="text-xl text-mystical-200 mb-6">Your next career insight awaits...</p>
-                        <CardDeck />
+                      <div className="text-center mb-8">
+                        <p className="text-xl text-mystical-200 mb-6 animate-fade-in-down-delay-4">Your next career insight awaits...</p>
+                        <div className="animate-fade-in-down-delay-6">
+                          <CardDeck />
+                        </div>
                       </div>
                     ) : (
                       <div className="w-full perspective mb-8">
@@ -162,27 +164,28 @@ export default function Home() {
                 )}
                 {/* Card Drawing Actions */}
                 <div className="mt-8 flex flex-col items-center">
-                  {!currentCard ? (
+                  {!isLoading && !currentCard ? (
                     <Button
                       onClick={drawCard}
-                      disabled={isDrawing || isLoading}
+                      disabled={isDrawing}
                       variant="ghost"
                       className={cn(
                         "text-golden-300 hover:text-golden-400",
                         "font-medium py-6 px-8 rounded-full",
-                        "transition-all duration-300 transform hover:scale-105 h-auto text-base"
+                        "transition-all duration-300 transform hover:scale-105 h-auto text-base",
+                        "animate-fade-in-down-delay-8"
                       )}
                     >
                       <span className="mr-2 text-lg">✨</span>
                       Draw a Card
                     </Button>
-                  ) : (
+                  ) : !isLoading && currentCard ? (
                     <div className="flex flex-col items-center">
                       <div className="flex flex-row gap-4 items-center">
                         <Button
                           onClick={resetCard}
                           variant="ghost"
-                          className="text-mystical-300 hover:text-golden-300 transition-colors"
+                          className="text-mystical-300 hover:text-golden-300 transition-colors animate-fade-in-down-delay-4"
                         >
                           <RefreshCw className="mr-2 h-4 w-4" />
                           Draw Another Card
@@ -190,37 +193,37 @@ export default function Home() {
                         <Button
                           onClick={() => setViewMode('path')}
                           variant="ghost"
-                          className="text-mystical-300 hover:text-golden-300 transition-colors"
+                          className="text-mystical-300 hover:text-golden-300 transition-colors animate-fade-in-down-delay-5"
                         >
                           Show Career Path
                         </Button>
                       </div>
                       <div className="mt-6">
-                        <p className="text-sm text-mystical-300 mb-2">Share this wisdom:</p>
+                        <p className="text-sm text-mystical-300 mb-2 animate-fade-in-down-delay-6">Share this wisdom:</p>
                         <Button 
                           onClick={shareCard}
                           variant="outline" 
-                          className="border-mystical-300 text-mystical-300 hover:bg-mystical-700"
+                          className="border-mystical-300 text-mystical-300 hover:bg-mystical-700 animate-fade-in-down-delay-7"
                         >
                           <Share2 className="mr-2 h-4 w-4" />
                           Share
                         </Button>
                       </div>
                     </div>
-                  )}
+                  ) : null}
                 </div>
               </>
             )}
             {/* Career Path Display (in place of card) */}
             {viewMode === 'path' && currentCard && (
-              <div className="w-full flex flex-col items-center mt-8 animate-fade-in">
+              <div className="w-full flex flex-col items-center mt-8">
                 <Button
                   onClick={() => setViewMode('card')}
-                  className="mb-8 bg-golden-400 text-mystical-900 font-bold px-6 py-2 rounded-lg shadow hover:bg-golden-300 transition"
+                  className="mb-8 bg-golden-400 text-mystical-900 font-bold px-6 py-2 rounded-lg shadow hover:bg-golden-300 transition animate-fade-in-down-delay-4"
                 >
                   ← Back to Card
                 </Button>
-                <h1 className="text-3xl font-playfair font-bold text-golden-300 mb-6 text-center">Career Path: {currentCard.career}</h1>
+                <h1 className="text-3xl font-playfair font-bold text-golden-300 mb-6 text-center animate-fade-in-down-delay-5">Career Path: {currentCard.career}</h1>
                 <CareerPath career={currentCard.career} />
               </div>
             )}
@@ -228,7 +231,7 @@ export default function Home() {
         </main>
         
         {/* Footer */}
-        <footer className="py-4 text-center text-mystical-400 text-sm">
+        <footer className="py-4 text-center text-mystical-400 text-sm animate-fade-in-down-delay-9">
           <p>A project by <a href="#" className="underline hover:text-golden-300 transition-colors">Your Future Is Our Business</a> | What-To-Be Podcast</p>
         </footer>
       </div>
