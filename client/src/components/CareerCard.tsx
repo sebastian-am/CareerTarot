@@ -40,9 +40,10 @@ const careerIcons: Record<string, React.ReactNode> = {
 interface CareerCardProps {
   careerInsight: CareerInsight;
   isFlipped: boolean;
+  generatedInsight?: string | null;
 }
 
-export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
+export function CareerCard({ careerInsight, isFlipped, generatedInsight }: CareerCardProps) {
   const quote = careerInsight.quote;
   const career = careerInsight.career;
   const arcanaName = getArcanaName(careerInsight);
@@ -80,7 +81,12 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
         className="absolute w-full h-full backface-hidden"
         style={{ backfaceVisibility: 'hidden' }}
       >
-        <Card className="w-full h-full bg-gradient-to-b from-mystical-700 to-mystical-900 rounded-xl border-2 border-golden-400 shadow-[0_10px_25px_-5px_rgba(107,70,193,0.5),0_8px_10px_-6px_rgba(107,70,193,0.3)] p-6 flex flex-col">
+        <Card className="w-full h-full bg-gradient-to-b from-mystical-700 to-mystical-900 rounded-xl border-2 border-golden-400 shadow-[0_10px_25px_-5px_rgba(107,70,193,0.5),0_8px_10px_-6px_rgba(107,70,193,0.3)] p-6 flex flex-col relative">
+          {/* Decorative corner elements */}
+          <div className="absolute top-3 left-3 w-8 h-8 border-t-2 border-l-2 border-golden-300/50" />
+          <div className="absolute top-3 right-3 w-8 h-8 border-t-2 border-r-2 border-golden-300/50" />
+          <div className="absolute bottom-3 left-3 w-8 h-8 border-b-2 border-l-2 border-golden-300/50" />
+          <div className="absolute bottom-3 right-3 w-8 h-8 border-b-2 border-r-2 border-golden-300/50" />
           {/* Card Content */}
           <div className="flex-grow overflow-y-auto">
             <div className="flex flex-col h-full">
@@ -107,6 +113,14 @@ export function CareerCard({ careerInsight, isFlipped }: CareerCardProps) {
                   "{quote}"
                 </p>
               </div>
+              
+              {/* Mystical LLM Insight */}
+              {generatedInsight && (
+                <div className="my-4 px-4 py-3 rounded-lg bg-mystical-900/80 border border-golden-400 shadow-md text-golden-200 text-base text-center font-playfair animate-fade-in-down">
+                  <div className="mb-1 text-golden-300 text-lg font-bold tracking-wider">Mystical Insight</div>
+                  <div className="italic">{generatedInsight}</div>
+                </div>
+              )}
               
               {/* Career Icon */}
               <div className="flex justify-center my-4 animate-fade-in-down">
